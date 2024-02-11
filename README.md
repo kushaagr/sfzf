@@ -10,7 +10,7 @@ a character matching with the provided search string.
 
 ## Demo
 
-![Demo](static/sfzf-display.mp4)
+https://github.com/kushaagr/sfzf/blob/main/static/sfzf-display.mp4
 
 ## Build
 + Make sure you have gcc installed and it can compile to **C++17**.
