@@ -1,4 +1,5 @@
 # sfzf - A simple fzf algorithm written in C++
+[![Windows](https://img.shields.io/static/v1?label=os&message=Windows&logo=microsoft&color=blue)]()
 
 ## Command format
 ```
