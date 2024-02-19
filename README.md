@@ -7,7 +7,7 @@ sfzf SEARCH_STRING
 ```
 
 It takes input from stdin and outputs only the results that have atleast
-a character matching with the provided search string.
+1% match with the provided search string.
 
 ## Demo
 
